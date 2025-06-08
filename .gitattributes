@@ -1,3 +1,0 @@
-*.json filter=lfs diff=lfs merge=lfs -text
-*.xlsx filter=lfs diff=lfs merge=lfs -text
-data/signatures.json filter=lfs diff=lfs merge=lfs -text
